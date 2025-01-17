@@ -5,7 +5,7 @@ import product4 from "./assets/products/4.png";
 import product5 from "./assets/products/5.png";
 
 
-export const products = [
+export const PRODUCTS = [
   {
     id: 1,
     productName: "IPhone",
