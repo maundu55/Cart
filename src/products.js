@@ -1,8 +1,9 @@
-import product1 from "./assets/products/1.png";
-import product2 from "./assets/products/2.png";
-import product3 from "./assets/products/3.png";
-import product4 from "./assets/products/4.png";
-import product5 from "./assets/products/5.png";
+import product1 from '../src/assets/products/1.png'
+import product2 from '../src/assets/products/2.png'
+import product3 from '../src/assets/products/3.png'
+import product4 from '../src/assets/products/4.png'
+import product5 from '../src/assets/products/5.png'
+
 
 
 export const PRODUCTS = [
@@ -39,5 +40,3 @@ export const PRODUCTS = [
 
 ];
 
-
-console.log(products);
